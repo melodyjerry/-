@@ -20,3 +20,4 @@ void ChangeBody(int a,int b); //245蛇的坐标变换,后一个复制前一个ST
 ## 运行截图
 ![Ug1DSA.png](https://s1.ax1x.com/2020/07/18/Ug1DSA.png)
 ![Ug1fYQ.png](https://s1.ax1x.com/2020/07/18/Ug1fYQ.png)
+![Ug3Zpd.png](https://s1.ax1x.com/2020/07/18/Ug3Zpd.png)
